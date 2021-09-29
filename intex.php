@@ -1,3 +1,3 @@
 <HTML>
-    Hello world
+    Hello world.
 </HTML>
